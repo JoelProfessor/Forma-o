@@ -1,4 +1,4 @@
-#Agrinho 2024
+Agrinho 2024
 
 Nome do Aluno:
 Nome do Professor:
